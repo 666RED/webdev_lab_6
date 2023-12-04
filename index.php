@@ -2,6 +2,15 @@
 <html lang="en">
   <head>
     <title>Lab 6 Q1</title>
+    <style>
+      table, tr, td {
+        border: 1px solid black;
+      }
+
+      td {
+        padding: 10px;
+      }
+    </style>
   </head>
   <body>
     <?php 
